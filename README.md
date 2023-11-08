@@ -3,7 +3,7 @@
 You can call me Ky - Indonesia
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Machine Learning Project
-- 
+  
 ## About me :
 
 Very motivated to keep learning and improving my skills<br>
