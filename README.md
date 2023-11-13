@@ -21,5 +21,5 @@ Music | Comics | Design <br>
 
 ## How to reach me :
 
-#### Email : [youremail@mail.com](ferdiansyahh670@icloud.com)
-#### LinkedIn : [@yourlinkedin](https://www.linkedin.com/in/rizky-ferdiansyah)
+#### Email : ferdiansyahh670@icloud.com
+#### LinkedIn : https://www.linkedin.com/in/rizky-ferdiansyah
