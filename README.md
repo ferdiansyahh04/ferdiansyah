@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 You can call me Ky - Indonesia
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Pascal and Java
 - 👯 I’m looking to collaborate on Machine Learning Project
   
 ## About me :
