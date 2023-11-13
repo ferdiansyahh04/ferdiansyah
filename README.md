@@ -7,7 +7,7 @@ You can call me Ky - Indonesia
 ## About me :
 
 Very motivated to keep learning and improving my skills<br>
-especially in the field of Machine Learning and Artificial Intelligence.
+especially in the field of Machine Learning and Programming Language.
 
 ## Languages and Tools :
 
