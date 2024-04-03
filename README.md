@@ -11,7 +11,7 @@ especially in the field of Machine Learning and Programming Language.
 
 ## Languages and Tools :
 
-Python | Linux | Docker <br>
+Python | Java | Linux | Docker <br>
 VS Code | Networking | SQL 
 
 ## My Interest & Activities :
