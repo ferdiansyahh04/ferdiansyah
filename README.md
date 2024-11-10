@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 You can call me Ky - Indonesia
-- 🌱 I’m currently learning Pascal and Java
+- 🌱 I’m currently learning Java, HTML, CSS, PHP, and Javascript
 - 👯 I’m looking to collaborate on Machine Learning Project
   
 ## About me :
@@ -12,7 +12,7 @@ especially in the field of Machine Learning and Programming Language.
 ## Languages and Tools :
 
 Python | Java | Linux | Docker <br>
-VS Code | Networking | SQL 
+VS Code | Networking | SQL | MongoDB | MySQL 
 
 ## My Interest & Activities :
 
